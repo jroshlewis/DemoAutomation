@@ -1,5 +1,5 @@
 class PracticeWithGitRepo
-  class PracticeRuby
+
         
         Selenium::WebDriver::Chrome.driver_path="C://RoshTesting//Tools//Browsers//chromedriver.exe"
         driver = Selenium::WebDriver.for :chrome
